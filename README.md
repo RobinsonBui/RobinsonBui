@@ -46,8 +46,6 @@ Disfruto los problemas que cruzan disciplinas: arquitectura, UX, performance y d
 |---|---|---|
 | **Axioma POS** | Sistema de punto de venta full-stack para comercios. | TypeScript · Go · Astro · PostgreSQL |
 | **[Vértice Contable](https://github.com/RobinsonBui/vertice)** | Sitio oficial de Vertice Contable SAS. | Astro · TypeScript |
-| **[simulate-quiz](https://github.com/RobinsonBui/simulate-quiz)** | Simulador de exámenes interactivo. | Vue 3 |
-| **[moduls-shopify](https://github.com/RobinsonBui/moduls-shopify)** | Módulos reutilizables para temas Shopify. | Liquid · JS |
 
 ---
 
