@@ -78,12 +78,13 @@ Trabajo principalmente en **e-commerce, SaaS y herramientas internas** para equi
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>&nbsp;Axioma POS</h3>
-      <p><sub><b>PLATAFORMA POS · MONOREPO · SAAS</b></sub></p>
+      <h3>&nbsp;Axioma POS &nbsp;<sub><sup>🚀 PRODUCTO PROPIO</sup></sub></h3>
+      <p><sub><b>SAAS · PLATAFORMA POS · MONOREPO</b></sub></p>
       <p>
-        Plataforma SaaS de punto de venta con varios módulos: panel web,
-        API de negocio, agente de impresión, facturación electrónica DIAN,
-        landing de pricing y un CLI propio para acelerar el desarrollo.
+        Producto SaaS propio de punto de venta que diseño, lidero y construyo
+        end-to-end. Monorepo con panel web, API de negocio, agente de impresión,
+        facturación electrónica DIAN, landing de pricing y un CLI propio
+        para acelerar el desarrollo del equipo.
       </p>
       <p>
         <code>Next.js 15</code>&nbsp;<code>React 19</code>&nbsp;<code>NestJS</code>&nbsp;<code>Drizzle</code>&nbsp;<code>PostgreSQL</code>&nbsp;<code>Redis</code>&nbsp;<code>BullMQ</code>&nbsp;<code>Go</code>&nbsp;<code>Turborepo</code>&nbsp;<code>Docker</code>
