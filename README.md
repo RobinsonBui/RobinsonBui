@@ -111,17 +111,6 @@ Trabajo principalmente en **e-commerce, SaaS y herramientas internas** para equi
 "Construir software es 20% código y 80% decisiones.
  Las herramientas cambian; los fundamentos no."
 ```
-
-Creo en **arquitecturas simples**, **código que se lee como prosa** y **equipos que entienden el porqué antes que el cómo**.
-
 <br/>
 
 ---
-
-<div align="center">
-  <sub>
-    <b>¿Hablamos?</b> ·
-    <a href="mailto:buitragorobinson33@gmail.com">buitragorobinson33@gmail.com</a> ·
-    <a href="https://www.linkedin.com/in/robinson-buitrago-loaiza-3678b81b0/">LinkedIn</a>
-  </sub>
-</div>
