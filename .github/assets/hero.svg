@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Robinson Buitrago — Product Lead at Nuvara">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0F1A"/>
+      <stop offset="100%" stop-color="#1A1F2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1F2937" stroke-width="0.5" opacity="0.5"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+
+  <rect x="0" y="0" width="1200" height="3" fill="url(#accent)"/>
+
+  <g transform="translate(60, 90)">
+    <text x="0" y="0" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="13" fill="#6B7280" letter-spacing="3">PRODUCT  ·  ENGINEERING  ·  E-COMMERCE</text>
+    <text x="0" y="60" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="56" font-weight="700" fill="#F9FAFB" letter-spacing="-1.5">Robinson Buitrago</text>
+    <text x="0" y="100" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="400" fill="#9CA3AF">Product Lead @ Nuvara · Full-Stack Developer</text>
+
+    <g transform="translate(0, 130)">
+      <rect x="0" y="0" width="8" height="8" fill="#10B981"/>
+      <text x="20" y="9" font-family="ui-monospace, monospace" font-size="13" fill="#D1D5DB">Disponible para colaboraciones</text>
+      <text x="240" y="9" font-family="ui-monospace, monospace" font-size="13" fill="#6B7280">·  Medellín, Colombia</text>
+    </g>
+  </g>
+
+  <g transform="translate(900, 90)" opacity="0.9">
+    <rect x="0" y="0" width="240" height="120" fill="none" stroke="#374151" stroke-width="1"/>
+    <text x="16" y="28" font-family="ui-monospace, monospace" font-size="11" fill="#6B7280">~/stack</text>
+    <text x="16" y="54" font-family="ui-monospace, monospace" font-size="13" fill="#06B6D4">vue · typescript</text>
+    <text x="16" y="76" font-family="ui-monospace, monospace" font-size="13" fill="#10B981">astro · go</text>
+    <text x="16" y="98" font-family="ui-monospace, monospace" font-size="13" fill="#A78BFA">shopify · postgres</text>
+  </g>
+</svg>
