@@ -29,20 +29,23 @@ Trabajo principalmente en **e-commerce, SaaS y herramientas internas** para equi
     <td valign="top" width="25%">
       <h4>&nbsp;Frontend</h4>
       <p>
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
         <img src="https://img.shields.io/badge/-Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
     </td>
     <td valign="top" width="25%">
       <h4>&nbsp;Backend</h4>
       <p>
+        <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
       </p>
     </td>
     <td valign="top" width="25%">
@@ -58,8 +61,10 @@ Trabajo principalmente en **e-commerce, SaaS y herramientas internas** para equi
       <h4>&nbsp;Tooling</h4>
       <p>
         <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/-Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
       </p>
     </td>
@@ -74,13 +79,14 @@ Trabajo principalmente en **e-commerce, SaaS y herramientas internas** para equi
   <tr>
     <td width="50%" valign="top">
       <h3>&nbsp;Axioma POS</h3>
-      <p><sub><b>SISTEMA DE PUNTO DE VENTA · FULL-STACK</b></sub></p>
+      <p><sub><b>PLATAFORMA POS · MONOREPO · SAAS</b></sub></p>
       <p>
-        Plataforma completa de POS para comercios. Frontend en Astro + TypeScript,
-        backend en Go, base de datos PostgreSQL y orquestación con Docker.
+        Plataforma SaaS de punto de venta con varios módulos: panel web,
+        API de negocio, agente de impresión, facturación electrónica DIAN,
+        landing de pricing y un CLI propio para acelerar el desarrollo.
       </p>
       <p>
-        <code>TypeScript</code>&nbsp;<code>Go</code>&nbsp;<code>Astro</code>&nbsp;<code>PostgreSQL</code>&nbsp;<code>Docker</code>
+        <code>Next.js 15</code>&nbsp;<code>React 19</code>&nbsp;<code>NestJS</code>&nbsp;<code>Drizzle</code>&nbsp;<code>PostgreSQL</code>&nbsp;<code>Redis</code>&nbsp;<code>BullMQ</code>&nbsp;<code>Go</code>&nbsp;<code>Turborepo</code>&nbsp;<code>Docker</code>
       </p>
     </td>
     <td width="50%" valign="top">
